@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Covid_News_Updates-master/static/css/main.4eb3f5e8.css",
+    "main.js": "/Covid_News_Updates-master/static/js/main.de08dc18.js",
+    "static/js/787.75a0cbe6.chunk.js": "/Covid_News_Updates-master/static/js/787.75a0cbe6.chunk.js",
+    "index.html": "/Covid_News_Updates-master/index.html",
+    "main.4eb3f5e8.css.map": "/Covid_News_Updates-master/static/css/main.4eb3f5e8.css.map",
+    "main.de08dc18.js.map": "/Covid_News_Updates-master/static/js/main.de08dc18.js.map",
+    "787.75a0cbe6.chunk.js.map": "/Covid_News_Updates-master/static/js/787.75a0cbe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eb3f5e8.css",
+    "static/js/main.de08dc18.js"
+  ]
+}
